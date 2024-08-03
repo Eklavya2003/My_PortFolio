@@ -7,6 +7,9 @@ import oracle from "../../public/oracle.png";
 import Postman from "../../public/postman2.png";
 import springBoot from "../../public/springBoot.jpg";
 import Linux from "../../public/Linux.png";
+import express from "../../public/express.png";
+import reactjs from "../../public/reactjs.png";
+import node from "../../public/node.png";
 function Experiance() {
   const cardItem = [
     {
@@ -16,31 +19,46 @@ function Experiance() {
     },
     {
       id: 2,
+      logo: express,
+      name: "Express",
+    },
+    {
+      id: 3,
+      logo: reactjs,
+      name: "ReactJS",
+    },
+    {
+      id: 4,
+      logo: node,
+      name: "Node",
+    },
+    {
+      id: 5,
       logo: css,
       name: "CSS",
     },
     {
-      id: 3,
+      id: 6,
       logo: java,
       name: "Java",
     },
     {
-      id: 4,
+      id: 7,
       logo: javascript,
       name: "JavaScript",
     },
     {
-      id: 5,
+      id: 8,
       logo: oracle,
       name: "Oracle",
     },
     {
-      id: 6,
+      id: 9,
       logo: Linux,
       name: "Linux",
     },
     {
-      id: 7,
+      id: 10,
       logo: Postman,
       name: "Postman",
     },
