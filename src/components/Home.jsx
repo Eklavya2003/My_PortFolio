@@ -37,11 +37,15 @@ function Home() {
             </div>
             <br />
             <p className="text-sm md:text-md text-justify">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Quisquam, recusandae consequatur. Accusamus sint libero eligendi
-              laborum fuga repudiandae? Asperiores tempore eos animi dolores
-              corrupti! Sint quos, mollitia architecto aliquam nesciunt, optio
-              cum delectus sit voluptatum aut ratione quaerat veniam aperiam!
+              I am Eklavya Gupta, a CSE student at the Kalinga Institute of
+              Technology. I discovered my passion for development early on and
+              have since honed my skills in development and data structures and
+              algorithms (DSA). I have participated in significant projects and
+              hackathons, where I am known for bringing creative solutions to
+              complex challenges and fostering successful collaborations.
+              Outside of work, I enjoy watching movies and have a strong
+              interest in homeopathy medicine. I invite you to explore my
+              portfolio and connect for potential collaborations.
             </p>
             <br />
             {/* social media icons */}
@@ -58,7 +62,10 @@ function Home() {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/eklavya-gupta-05994829b/"
+                      target="_blank"
+                    >
                       <FaLinkedin className="text-2xl cursor-pointer" />
                     </a>
                   </li>
