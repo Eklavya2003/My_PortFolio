@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
-// import About from "./components/About";
+import About from "./components/About";
 // import PortFolio from "./components/PortFolio";
 // import Experiance from "./components/Experiance";
 // import Footer from "./components/Footer";
@@ -14,6 +14,7 @@ function App() {
       <div>
         <Navbar />
         <Home />
+        <About />
       </div>
       <Toaster />
     </>
